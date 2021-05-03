@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ozzy/static/css/main.2a93384a.chunk.css",
+    "main.js": "/ozzy/static/js/main.1d27ffce.chunk.js",
+    "main.js.map": "/ozzy/static/js/main.1d27ffce.chunk.js.map",
+    "runtime-main.js": "/ozzy/static/js/runtime-main.a1d945e5.js",
+    "runtime-main.js.map": "/ozzy/static/js/runtime-main.a1d945e5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ozzy/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2abd1852.chunk.js": "/ozzy/static/js/2.2abd1852.chunk.js",
+    "static/js/2.2abd1852.chunk.js.map": "/ozzy/static/js/2.2abd1852.chunk.js.map",
+    "index.html": "/ozzy/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ozzy/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2a93384a.chunk.css.map": "/ozzy/static/css/main.2a93384a.chunk.css.map",
+    "static/js/2.2abd1852.chunk.js.LICENSE.txt": "/ozzy/static/js/2.2abd1852.chunk.js.LICENSE.txt",
+    "static/media/CGI.b1831236.jpeg": "/ozzy/static/media/CGI.b1831236.jpeg",
+    "static/media/SPSM.8b53679a.png": "/ozzy/static/media/SPSM.8b53679a.png",
+    "static/media/SverigesRadio.b24ad7e0.jpg": "/ozzy/static/media/SverigesRadio.b24ad7e0.jpg",
+    "static/media/App.css": "/ozzy/static/media/background.50fd61e2.jpg",
+    "static/media/boiler.ad971468.png": "/ozzy/static/media/boiler.ad971468.png",
+    "static/media/murloc_mayhem.73e15467.png": "/ozzy/static/media/murloc_mayhem.73e15467.png",
+    "static/media/orginal.c406924e.jfif": "/ozzy/static/media/orginal.c406924e.jfif",
+    "static/media/profilbild.3ecf9af9.png": "/ozzy/static/media/profilbild.3ecf9af9.png",
+    "static/media/profilbilden.0d11c300.png": "/ozzy/static/media/profilbilden.0d11c300.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1d945e5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2abd1852.chunk.js",
+    "static/css/main.2a93384a.chunk.css",
+    "static/js/main.1d27ffce.chunk.js"
+  ]
+}
